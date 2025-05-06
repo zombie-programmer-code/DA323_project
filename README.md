@@ -1,4 +1,4 @@
-# This is an explanation of the paper: Zero Shot Text to Image Generation, published in February 2021.
+# Zero Shot Text to Image Generation, published in February 2021.
 ## Link to the paper
 https://arxiv.org/pdf/2102.12092
 
